@@ -4,7 +4,7 @@ import cv2
 import numpy
 
 #Carregar uma imagem
-img = cv2.imread('mm.webp');
+img = cv2.imread('mms/mm.webp');
 
 #Redimencionar a imagem para 4:3
 newWidth = 640
